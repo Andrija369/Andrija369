@@ -15,7 +15,7 @@ I'm currently looking for a **frontend internship or junior role** (Belgrade, hy
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
+![Claude](https://img.shields.io/badge/Claude-F05032?style=flat&logo=git&logoColor=white)
 ## 🚀 What I've built
 
 - **Currency Exchange Management App**: a live web app used daily by a currency exchange office. Multi-currency balances, transactions with automatic calculations, expense tracking, shift reports and receipt printing. *(React, Supabase, Vercel)*
