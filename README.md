@@ -1,32 +1,48 @@
-Hi, I'm Andrija 👋
+# Hi, I'm Andrija 👋
 
-Software developer from Belgrade, Serbia. I build clean, responsive web apps with React and TypeScript, and I have a solid foundation in C#, object-oriented programming and SQL from my studies. In my free time I'm learning game development with Godot and Blender.
+Software developer from Belgrade, Serbia. I build clean, responsive web apps with **React** and **TypeScript**, and I have a solid foundation in **C#**, **object-oriented programming** and **SQL** from my studies. In my free time I'm learning game development with **Godot** and **Blender**.
 
-I'm currently looking for an internship or junior role (Belgrade, hybrid or remote).
+I'm currently looking for an **internship or junior role** (Belgrade, hybrid or remote).
 
-🛠️ Tech stack
+## 🛠️ Tech stack
 
-Languages
+**Languages**
 
-Show Image Show Image Show Image Show Image Show Image Show Image
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-Frameworks & tools
+**Frameworks & tools**
 
-Show Image Show Image Show Image Show Image Show Image Show Image
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white)
 
-Currently learning
+**Currently learning**
 
-Show Image Show Image
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godotengine&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat&logo=blender&logoColor=white)
 
-🚀 What I've built
-Currency Exchange Management App: a live web app used daily by a currency exchange office. Multi-currency balances, transactions with automatic calculations, expense tracking, shift reports and receipt printing. (React, Supabase, Vercel)
-Agent Test Crash Lab: a platform I'm co-founding that tests risky AI agent behavior and turns failures into approved permission rules. I build the frontend. (React, TypeScript, Vite, Tailwind CSS)
-Video Game E-commerce Website: my web design thesis project, an online game store built from scratch. (HTML, CSS, JavaScript)
-Game in Godot (in progress): building my own game from scratch while learning the Godot engine.
-🎓 Education
+## 🚀 What I've built
 
-Bachelor of Applied Sciences, Information Systems and Technologies Belgrade Academy of Business and Art Vocational Studies (BAPUS) Coursework in C#, object-oriented programming, SQL and relational databases.
+- **Currency Exchange Management App**: a live web app used daily by a currency exchange office. Multi-currency balances, transactions with automatic calculations, expense tracking, shift reports and receipt printing. *(React, Supabase, Vercel)*
+- **Agent Test Crash Lab**: a platform I'm co-founding that tests risky AI agent behavior and turns failures into approved permission rules. I build the frontend. *(React, TypeScript, Vite, Tailwind CSS)*
+- **[Video Game E-commerce Website](https://github.com/Andrija369/game-store-website)**: my web design thesis project, an online game store built from scratch. *(HTML, CSS, JavaScript)*
+- **Game in Godot** *(in progress)*: building my own game from scratch while learning the Godot engine.
 
-📫 Contact
-LinkedIn: linkedin.com/in/andrija-sremcev
-Email: andrijasremcev609@gmail.com
+## 🎓 Education
+
+**Bachelor of Applied Sciences, Information Systems and Technologies**
+Belgrade Academy of Business and Art Vocational Studies (BAPUS)
+Coursework in C#, object-oriented programming, SQL and relational databases.
+
+## 📫 Contact
+
+- LinkedIn: [linkedin.com/in/andrija-sremcev](https://www.linkedin.com/in/andrija-sremcev)
+- Email: [andrijasremcev609@gmail.com](mailto:andrijasremcev609@gmail.com)
